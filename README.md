@@ -6,7 +6,7 @@
 📢 Velog 접속 :
 <a href="https://velog.io/@hyun3220" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@hyun3220"
+        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@hyun3220" target="_blank"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
